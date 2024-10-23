@@ -82,7 +82,9 @@ iv)	Creating the new test cell view
 ![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
 
 
- 
+
+ ![16d7b98b-4f50-4d85-8e30-8d5d8ea31973](https://github.com/user-attachments/assets/21003410-1c37-4efb-aa26-ee77d4ed2bed)
+
 Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
@@ -101,7 +103,9 @@ For Transient Analysis Settings and Output
  
  ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+ 
+
+![6ea503e3-f2cf-4803-85f1-7c5a7f4ca520](https://github.com/user-attachments/assets/0d17b0ad-d02d-42d4-9567-217b1505cbfa)
 
 
 Results:
